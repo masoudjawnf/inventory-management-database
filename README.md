@@ -65,6 +65,7 @@ A normalized SQL Server inventory management database including entities for war
 - وضعیت سفارش  
 - تاریخ سفارش  
 - مبلغ کل فاکتور
+- ایدی نمایندگی ( سفارش دهنده )
 
 ### ⛔ `Sefareshat_Takmil_Nashodeh` – سفارشات تکمیل‌نشده  
 ردیابی سفارشاتی که به‌طور کامل ارسال نشده‌اند:  
