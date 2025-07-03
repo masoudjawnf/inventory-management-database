@@ -77,8 +77,8 @@ A normalized SQL Server inventory management database including entities for war
 ## ⚙️ نحوه استفاده
 
 1. فایل‌های SQL زیر را به‌ترتیب در SQL Server اجرا کنید:
-    `AnbarDari Create Table's.sql`
-    `AnbarDari Insert Table's.sql`
+  - `AnbarDari Create Table's.sql`
+  - `AnbarDari Insert Table's.sql`
 2. از فایل `AnbarDari Querie's.sql` برای اجرای نمونه هایی از گزارشات استفاده کنید
 
 ---
